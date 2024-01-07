@@ -1,1 +1,2 @@
-console.log("hello world");
+fullname ="namste world";
+console.log(fullname);
